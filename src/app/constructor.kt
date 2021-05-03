@@ -4,7 +4,7 @@ import data.Car
 
 fun main() {
   val avanza = Car("Toyota")
-  val almaz = Car("Wuling", 2019)
+  val almaz = Car("Wuling", "Almaz")
 
   println(avanza.brand)
   println(avanza.year)
